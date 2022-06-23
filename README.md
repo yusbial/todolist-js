@@ -10,6 +10,8 @@ $ npm i --save @fortawesome/free-solid-svg-icons
 
 $ npm i --save @fortawesome/react-fontawesome
 
+$ npm i -S react-flip-move
+
 ## Commands used to publish react files in github:
 
 git remote set-url origin https://github.com/yusbial/todolist-js
@@ -20,6 +22,9 @@ npm run deploy
 
 ## The published To-do App:
 https://yusbial.github.io/todolist-js/
+
+
+
 
 # Getting Started with Create React App
 
